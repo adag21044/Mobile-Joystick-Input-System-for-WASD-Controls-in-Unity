@@ -11,7 +11,6 @@ public class TPSController : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody>();
-        
     }
 
     private void Update()
